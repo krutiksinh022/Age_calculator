@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         const Locale('en', 'US'), // English
       ],
       debugShowCheckedModeBanner: false,
-      title: 'Age Calculator for age',
+      title: 'Age Calculator for age by krutik',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         colorScheme: ColorScheme.light(
